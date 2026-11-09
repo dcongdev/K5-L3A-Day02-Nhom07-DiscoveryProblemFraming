@@ -89,15 +89,15 @@ Quy trình nháp hiện tại:
 Quy trình nháp hiện tại:
 
 ```text
-[1] Lướt nhóm Zalo các lớp     ~[3–5] phút   ⚠ BOTTLENECK (tin thông báo lẫn tin chat)
+[1] Lướt nhóm Zalo các lớp     ~3–5 phút   ⚠ BOTTLENECK (tin thông báo lẫn tin chat)
       ↓
-[2] Mở Google Classroom        ~[1–2] phút
+[2] Mở Google Classroom        ~1–2 phút
       ↓
-[3] Kiểm tra email trường      ~[1] phút
+[3] Kiểm tra email trường      ~1 phút
       ↓
-[4] Vào LMS                    ~[1] phút
+[4] Vào LMS                    ~1 phút
       ↓
-[5] Ghi deadline vào lịch      ~[1] phút (hay quên bước này)
+[5] Ghi deadline vào lịch      ~1 phút (hay quên bước này)
 ```
 
 ### Problem Card #3
@@ -118,13 +118,13 @@ Quy trình nháp hiện tại:
 Quy trình nháp hiện tại:
 
 ```text
-[1] Chat chia việc             ~[15] phút (1 lần)
+[1] Chat chia việc             ~15 phút (1 lần)
       ↓
 [2] Mỗi người tự làm           12 ngày
       ↓
 [3] Nhóm trưởng hỏi tiến độ    ~5 phút/ngày   ⚠ BOTTLENECK (không thấy ai chậm)
       ↓
-[4] Ghép bài                   ~[30] phút
+[4] Ghép bài                   ~30 phút
       ↓
 [5] Ai chưa xong → làm thay    ~1 giờ (đã xảy ra 1 lần)
 ```

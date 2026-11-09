@@ -79,9 +79,9 @@ Quy trình nháp hiện tại:
 | Actor | Sinh viên học nhiều môn cùng lúc, mỗi môn dùng kênh thông báo khác nhau (bản thân mình, các bạn cùng lớp) |
 | Thời điểm / bối cảnh | Hằng ngày trong kỳ học; giảng viên đăng thông báo ở Zalo, Google Classroom, email hoặc LMS tùy môn |
 | Quy trình hiện tại (3–7 bước) | 1. Mở nhóm Zalo các lớp → 2. Mở Google Classroom → 3. Kiểm tra email → 4. Vào LMS → 5. Tự ghi deadline vào lịch/ghi chú |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 1: lướt Zalo, tin thông báo bị trôi giữa tin nhắn nói chuyện, khó tìm (~[số] phút/ngày) |
-| Impact (nếu không giải thì sao) | Mất 5–10 phút/ngày (~1 tiếng/tuần); nguy cơ bỏ sót deadline hoặc đổi phòng; kỳ này đã [số] lần suýt lỡ |
-| Success metric (baseline → target) | Thời gian kiểm tra: 5–10 phút/ngày qua 4 kênh → dưới 3 phút/ngày; số deadline bị bỏ sót: [số]/kỳ → 0 |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 1: lướt Zalo, tin thông báo bị trôi giữa tin nhắn nói chuyện, khó tìm (~5 phút/ngày) |
+| Impact (nếu không giải thì sao) | Mất 5–10 phút/ngày (~1 tiếng/tuần); nguy cơ bỏ sót deadline hoặc đổi phòng; kỳ này đã nhiều lần suýt lỡ |
+| Success metric (baseline → target) | Thời gian kiểm tra: 5–10 phút/ngày qua 4 kênh → dưới 3 phút/ngày; số deadline bị bỏ sót: nhiều lần/kỳ → 0 |
 | Phương án không dùng AI | Tự lập 1 Google Calendar/Notion ghi tất cả deadline; đề nghị lớp trưởng ghim thông báo quan trọng trên Zalo |
 | Giả thuyết về AI (nếu có) | Tự đọc tin từ các kênh, lọc ra tin thông báo/deadline và gom về một danh sách |
 | Cảm nhận nhanh | Workflow (cần đọc hiểu tin nhắn tự do để lọc thông báo, nhưng các bước định sẵn) |
@@ -105,8 +105,8 @@ Quy trình nháp hiện tại:
 | Trường | Nội dung |
 |---|---|
 | Job Story | Khi làm bài tập lớn theo nhóm, tôi muốn biết ai đang làm phần nào và tiến độ đến đâu, để không phải nhắc từng người và không dồn việc sát deadline |
-| Actor | Nhóm trưởng bài tập lớn (bản thân mình) và các thành viên nhóm [số] người |
-| Thời điểm / bối cảnh | Suốt thời gian làm bài nhóm (khoảng [số] tuần/bài), căng nhất 3–5 ngày trước hạn nộp |
+| Actor | Nhóm trưởng bài tập lớn (bản thân mình) và các thành viên nhóm 4 người |
+| Thời điểm / bối cảnh | Suốt thời gian làm bài nhóm (khoảng 2 tuần/bài), căng nhất 3–5 ngày trước hạn nộp |
 | Quy trình hiện tại (3–7 bước) | 1. Họp/chat chia việc → 2. Mỗi người tự làm → 3. Nhóm trưởng nhắn hỏi tiến độ từng người → 4. Ghép bài → 5. Ai chưa xong thì làm thay/thức khuya sửa |
 | Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3: hỏi tiến độ từng người, ~5 phút/ngày, không biết ai chậm cho đến sát hạn |
 | Impact (nếu không giải thì sao) | Kỳ trước 3 bài nhóm; 1 lần phải làm thay phần người khác sát hạn; chất lượng bài giảm, căng thẳng trong nhóm |
@@ -120,13 +120,13 @@ Quy trình nháp hiện tại:
 ```text
 [1] Chat chia việc             ~[15] phút (1 lần)
       ↓
-[2] Mỗi người tự làm           [số] ngày
+[2] Mỗi người tự làm           12 ngày
       ↓
 [3] Nhóm trưởng hỏi tiến độ    ~5 phút/ngày   ⚠ BOTTLENECK (không thấy ai chậm)
       ↓
 [4] Ghép bài                   ~[30] phút
       ↓
-[5] Ai chưa xong → làm thay    ~[số] giờ (đã xảy ra 1 lần)
+[5] Ai chưa xong → làm thay    ~1 giờ (đã xảy ra 1 lần)
 ```
 
 ### Card muốn pitch nhất

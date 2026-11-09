@@ -38,7 +38,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | | | |
+| 1 | Đăng ký tín chỉ (#2)| | |
 | 2 | | | |
 | 3 | | | |
 

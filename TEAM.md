@@ -25,13 +25,13 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 | --- | --- | --- | --- |
-| CP3 — Hội tụ nhóm |   |   | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng |   |   | Assumption map, snapshot hoặc survey |
-| CP4 — Research |   |   | Bảng research có link |
-| CP5 — Quy trình trước/sau |   |   | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 |   |   | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 |   |   | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định |   |   | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ nhóm | Dương Văn Công | Trần Văn Tài, Trần Mạnh Hùng, Nguyễn Thị Thu Hà | Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Trần Văn Tài | Dương Văn Công | Assumption map, tổng hợp bằng chứng hiện có và kế hoạch kiểm chứng; chưa thực hiện phỏng vấn/survey |
+| CP4 — Research | Trần Văn Tài | Trần Mạnh Hùng | Bảng research có link |
+| CP5 — Quy trình trước/sau | Trần Mạnh Hùng | Trần Văn Tài | Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 | Trần Mạnh Hùng | Dương Văn Công | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Nguyễn Thị Thu Hà | Trần Mạnh Hùng | Ma trận, so sánh mức can thiệp, eval, Problem Statement v1; AI Canvas nếu chọn Workflow/Agent |
+| CP6 — Quyết định | Nguyễn Thị Thu Hà | Dương Văn Công, Trần Văn Tài, Trần Mạnh Hùng | 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 

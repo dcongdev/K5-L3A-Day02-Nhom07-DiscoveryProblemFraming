@@ -46,3 +46,19 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
 **Điều mình học được từ phần nhóm:**
+
+### NguyenThiThuHa-2A202603719
+
+**Phần việc phụ trách:** Phụ trách chính CP6 (mức can thiệp, Problem Statement v1, quyết định); hỗ trợ CP3 (hội tụ nhóm).
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+- CP3: pitch 3 candidate (#2 đăng ký tín chỉ, #7 thông báo rải rác nhiều kênh, #8 theo dõi tiến độ bài nhóm); đặt câu hỏi phản biện cho card #1 (Công), #3 (Tài), #4 (Hùng); tham gia gom cluster và chấm shortlist.
+- CP4: card #7 được dùng làm nguồn tự thuật đối chiếu với card của Tài (5–10 phút/ngày so với 30–60 phút/ngày).
+- CP6: thảo luận cùng nhóm phần ma trận độ mơ hồ × độ phức tạp, so sánh No AI / Rule / Workflow / Agent, Problem Statement v1 và tiêu chí đánh giá, 4 rủi ro và kết luận Not Yet; nhóm trưởng tổng hợp và commit vào `group_report.md`.
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+- `group_report.md` mục 2.1 (pitch #2, #7, #8 và 3 câu hỏi phản biện ghi "Hà hỏi"), mục 3.2 (nguồn đối chiếu), mục 6, 7, 8 (CP6).
+- Commit `a3d6751` (thêm câu hỏi phản biện vào bảng pitch).
+- Báo cáo cá nhân `report/individual/2A202603719_NguyenThiThuHa.md`.
+
+**Điều mình học được từ phần nhóm:** [Hà tự điền]

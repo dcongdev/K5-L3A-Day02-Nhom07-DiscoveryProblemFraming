@@ -166,12 +166,12 @@ Quy trình nháp hiện tại:
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | [cần bạn điền, nếu không dùng ghi "Không dùng"] | | | |
+| CP1 Scan | Không dùng | | | |
 | CP2 Problem Card | Nhờ AI phản biện Problem Card #1 (đăng ký tín chỉ) | Chỉ ra bottleneck thật là lớp đầy khi đăng ký, không phải bước xếp lịch; chỉ ra metric chưa có cách đo và baseline chỉ từ 1 người | Cho rằng tần suất thấp nên phương án không AI có thể đã đủ, chưa tính hậu quả trượt lớp làm chậm tiến độ ra trường | Sửa bottleneck thành bước 5 (lớp đầy → xếp lại dưới áp lực thời gian); thêm cách đo (bấm giờ kỳ tới, hỏi 3–5 bạn cùng khóa); giữ card nhưng ghi rõ cần kiểm chứng phương án dự phòng ở "Điều còn chưa chắc" |
-| CP4 Research | [cần bạn điền] | | | |
-| CP5 Quy trình | [cần bạn điền] | | | |
-| CP5–6 Problem Statement | [cần bạn điền] | | | |
-| CP6 Mức can thiệp / quyết định | [cần bạn điền] | | | |
+| CP4 Research | Không dùng | | | |
+| CP5 Quy trình | Không dùng | | | |
+| CP5–6 Problem Statement | Không dùng | | | |
+| CP6 Mức can thiệp / quyết định | Không dùng | | | |
 
 ---
 

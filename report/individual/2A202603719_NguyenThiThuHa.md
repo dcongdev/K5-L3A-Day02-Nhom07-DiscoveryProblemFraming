@@ -149,16 +149,16 @@ Quy trình nháp hiện tại:
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch 3 card: #2 Đăng ký tín chỉ, #7 Thông báo rải rác nhiều kênh, #8 Theo dõi tiến độ bài nhóm | Card #7 được gom vào cluster A cùng card của Tài (candidate được chọn); card #7 được dùng làm nguồn đối chiếu ở CP4 (5–10 phút/ngày so với 30–60 phút/ngày của Tài) |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: hỏi Công (#1) "Tiền phòng tính theo công thức cố định, sao không dùng Excel?"; hỏi Tài (#3) "Card ghi 4 app nhưng chỉ liệt kê 3 kênh; 30–60 phút/ngày là đo hay ước lượng?"; hỏi Hùng (#4) "Giảm thời gian chép từ có làm nhớ từ kém đi không?" | Câu hỏi cho Tài giúp nhóm ghi rõ 30–60 phút là số tự thuật và thêm bước bấm giờ 5 ngày để lấy baseline (CP4–CP5); câu hỏi cho Công và Hùng trở thành lý do loại #1 và #4 khi chấm shortlist |
+| Nhận phản biện | Câu hỏi tôi nhận được: [cần bạn điền] | Tôi đã sửa gì: [cần bạn điền] |
+| Gom cluster / cây OST | [cần bạn điền] | |
+| Chọn candidate problem | [cần bạn điền] | |
+| Kiểm chứng / research | [cần bạn điền] | |
+| Quy trình nhóm | [cần bạn điền] | |
+| Problem Statement | [cần bạn điền] | |
+| Mức can thiệp AI | [cần bạn điền] | |
+| Quyết định | [cần bạn điền] | |
 
 ---
 
@@ -166,12 +166,12 @@ Quy trình nháp hiện tại:
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | [cần bạn điền, nếu không dùng ghi "Không dùng"] | | | |
+| CP2 Problem Card | Nhờ AI phản biện Problem Card #1 (đăng ký tín chỉ) | Chỉ ra bottleneck thật là lớp đầy khi đăng ký, không phải bước xếp lịch; chỉ ra metric chưa có cách đo và baseline chỉ từ 1 người | Cho rằng tần suất thấp nên phương án không AI có thể đã đủ, chưa tính hậu quả trượt lớp làm chậm tiến độ ra trường | Sửa bottleneck thành bước 5 (lớp đầy → xếp lại dưới áp lực thời gian); thêm cách đo (bấm giờ kỳ tới, hỏi 3–5 bạn cùng khóa); giữ card nhưng ghi rõ cần kiểm chứng phương án dự phòng ở "Điều còn chưa chắc" |
+| CP4 Research | [cần bạn điền] | | | |
+| CP5 Quy trình | [cần bạn điền] | | | |
+| CP5–6 Problem Statement | [cần bạn điền] | | | |
+| CP6 Mức can thiệp / quyết định | [cần bạn điền] | | | |
 
 ---
 
@@ -197,4 +197,7 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 ## 7. Tài liệu tham khảo
 
--
+- [docs/01-worksheet.md](../../docs/01-worksheet.md): template và prompt mẫu cho từng mục
+- [RULES.md](../../RULES.md), [CHECKPOINTS.md](../../CHECKPOINTS.md), [RUBRIC.md](../../RUBRIC.md)
+- [report/team/group_report.md](../team/group_report.md): báo cáo nhóm 07 (CP3–CP6)
+- Báo cáo cá nhân Trần Văn Tài, Card #1 (candidate được chọn)

@@ -20,7 +20,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
-| 1 | | | | |
+| 1 |Lặp lại |Tuần nào cũng phải vào nhiều chỗ (nhóm Zalo/google classroom, email, LMS) để kiểm tra thông báo về lớp học, deadline | | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |

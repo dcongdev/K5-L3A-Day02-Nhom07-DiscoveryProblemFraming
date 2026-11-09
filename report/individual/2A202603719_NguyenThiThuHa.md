@@ -50,7 +50,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | Actor |Sinh viên tự đăng ký tín chỉ |
 | Thời điểm / bối cảnh |Đầu mỗi kỳ, khi trường mở cổng đăng ký; nhiều sinh viên vào cùng lúc, lớp đầy nhanh |
 | Quy trình hiện tại (3–7 bước) |1. Xem chương trình đào tạo, chọn môn cần học -> 2. Xem danh sách lớp mở -> 3. Xếp thời khóa biểu thử -> 4. Canh giờ mở cổng, đăng ký -> 5.Lớp đầy hoặc trùng thì xếp lại |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3+5 xếp lịch rồi xếp lại khi lớp đầy, mỗi lần 30-40 phút, đã từng xếp lại 2 lần|
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 5 lớp đầy -> phải xếp lịch ~20 phút, đã từng xếp lại 2 lần nguyên nhân do bước 3 không chuẩn bị phương án dự phòng|
 | Impact (nếu không giải thì sao) |Mất 1-2 tiếng mỗi kỳ; kỳ trước đăng ký trượt 1 môn đại cương phải học bù kỳ sau, ảnh hưởng tiến độ ra trường |
 | Success metric (baseline → target) |Thời gin xếp lịch: 30-40 phút/ lần, xếp lại 2 lần -> dưới 5 phút, có phương án dự phòng, không trượt lớp nào |
 | Phương án không dùng AI |Lập sẵn 2-3 phương án thời khóa biểu dự phòng trước ngày mở cổng |

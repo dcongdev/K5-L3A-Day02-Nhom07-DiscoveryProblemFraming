@@ -38,9 +38,9 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | Đăng ký tín chỉ (#2)| | |
-| 2 | | | |
-| 3 | | | |
+| 1 | Đăng ký tín chỉ (#2)|Quy trình rõ, có bằng chứng |Phụ thuộc hệ thống của trường, khó can thiệp |
+| 2 |Thông báo rải rác nhiều kênh (#1) |Sinh viên nào cũng gặp, lặp lại mỗi ngày |Mỗi ngày mất khoảng 5 phút, chưa chắc đủ nghiêm trọng để cần giải pháp |
+| 3 | Theo dõi tiến độ bài nhóm (#5)|Có pain từ nhiều người, có hậu quả thật (làm thay) |có thể làm vấn đề con người, không phải công  |
 
 ### Problem Card #1
 

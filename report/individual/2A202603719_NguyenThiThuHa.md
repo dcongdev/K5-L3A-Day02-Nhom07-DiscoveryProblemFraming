@@ -10,7 +10,7 @@
 - MSSV:2A202603719
 - Email trường (không bắt buộc, repo có thể để public):
 - Tên nhóm:nhóm 7
-- Link repo nhóm: https://github.com/dcongdev/K5-L3A-Day02-DuongVanCong-2A202603468-DiscoveryProblemFraming
+- Link repo nhóm: https://github.com/dcongdev/K5-L3A-Day02-Nhom07-DiscoveryProblemFraming
 
 ---
 
@@ -20,11 +20,11 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | # | Lăng kính | Job Story: Khi… tôi muốn… để… | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng) |
 |---:|---|---|---|---|
-| 1 |Lặp lại |Tuần nào  cũng phải vào nhiều chỗ (nhóm Zalo/google classroom, email, LMS) để kiểm tra thông báo về lớp học, deadline | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
+| 1 |Lặp lại |Tuần nào tôi cũng phải vào nhiều chỗ (nhóm Zalo/google classroom, email, LMS) để kiểm tra thông báo về lớp học, deadline |Tôi, các bạn cùng lớp |Mỗi ngày mất tầm 5-10 phút kiểm tra |
+| 2 |Tốn thời gian |Khi đăng ký tín chỉ đầu mỗi kỳ học, tôi phải sắp xếp thời khóa biểu để không bị trùng lịch và còn chỗ, để đủ tín chỉ mà không mất nhiều thời gian xếp đi xếp lại  |tôi, các bạn sinh viên | Mất 30-40 phút để xếp trong một lần,có 2 lần tôi phải xếp lại vì lớp đầy,kỳ trước  đăng ký trượt một lớp đại cương|
+| 3 |Tốn thời gian |Khi làm báo cáo thí nghiệm Vật lý, tôi muốn xử lý số liệu, vẽ đồ thị và tính sai số nhanh để dành thời gian cho phần phân tích kết quả |Sinh viên các ngành liên quan đến vật lý |Mất khoảng 30-40 phút tính sai số , vẽ đồ thị cho một bài |
+| 4 |Cần đọc,tổng hơp nhiều thông tin |Khi đọc paper tiếng Anh cho đồ án, tôi muốn ghi chú ý chính của từng bài ở một chỗ để lúc viết phần tổng quan tìm lại nhanh, trích dẫn đúng |Sinh viên năm cuối làm đồ án, sinh viên làm nghiên cứu khoa học |Trung bình 1 bài paper phải đọc lại 4-5 lần vì không nhớ ý chính là gì |
+| 5 |Pain từ người khác |Khi làm bài tập lớn theo nhóm, tôi muốn biết ai đang làm phần nào và tiến độ đến đâu, để không phải nhắc từng người và không dồn việc sát deadline |Nhóm trưởng, các thành viên nhóm |Kỳ trước có 3 bài nhóm, mỗi bài mất tầm 5 phút nhắc việc/ ngày, 1 lần phải làm thay phần người khác do sát hạn nộp bài vẫn chưa xong |
 | 6 | | | | |
 | 7 | | | | |
 | 8 | | | | |

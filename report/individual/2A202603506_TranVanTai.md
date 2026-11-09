@@ -19,14 +19,14 @@
 Các vấn đề dưới đây được ghi từ trải nghiệm của tôi. Hiện chưa có bằng chứng cụ thể về pain lặp lại của người khác, nên tôi không gán lăng kính **Pain từ người khác** cho các dòng này.
 
 
-| # | Lăng kính                                                              | Job Story: Khi…, tôi muốn…, để…                                                                                                                                                                          | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng)                                                                                  |
-| -: | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin              | Khi bắt đầu một buổi thực hành, tôi muốn nhanh chóng nắm được yêu cầu và việc cần làm từ các file hướng dẫn, để bắt tay vào bài mà không mất nhiều thời gian dò tài liệu. | Tôi, học viên L3    | Mỗi buổi sáng từ thứ Hai đến thứ Sáu; tôi mất khoảng 15–30 phút để đọc các file Markdown.                                          |
-| 2 | Tốn thời gian                                                          | Khi có nhiều task và deadline, tôi muốn xác định việc nào cần ưu tiên trước, để hoàn thành bài đúng hạn.                                                                                 | Tôi, học viên L3    | Hôm qua tôi suýt trễ deadline nộp Codelab 02. Đây là một lần ghi nhận; thời gian và tần suất gặp tình huống này chưa được đo. |
-| 3 | Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin              | Khi ôn lại kiến thức của các buổi trước, tôi muốn hệ thống lại những nội dung cần nhớ, để nắm vững và vận dụng được kiến thức.                                                    | Tôi, học viên L3    | Hôm qua tôi dành khoảng 2 giờ đọc lại slide Day 1 và Day 2.                                                                                  |
-| 4 | Lặp lại · Tốn thời gian                                             | Khi kết thúc mỗi ngày học, tôi muốn kiểm tra những bài tập đã nộp và nhiệm vụ đã hoàn thành, để phát hiện việc còn thiếu và không bỏ sót đầu việc.                           | Tôi, học viên L3    | Mỗi ngày tôi dành khoảng 10 phút để kiểm tra.                                                                                                |
-| 5 | Lặp lại · Tốn thời gian                                             | Khi kết thúc mỗi ngày học, tôi muốn xem lịch trình của ngày hôm sau, để chủ động phân bổ thời gian và chuẩn bị trước.                                                                  | Tôi, học viên L3    | Mỗi ngày tôi dành khoảng 10–15 phút để kiểm tra lịch trình.                                                                               |
-| 6 | Lặp lại · Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin | Khi có cập nhật trong ngày, tôi muốn nắm được tin nhắn và thay đổi lịch trình quan trọng, để không bỏ lỡ thông tin cần xử lý.                                                         | Tôi, học viên L3    | Tôi kiểm tra Zalo, Discord và Outlook nhiều lần trong ngày; tổng thời gian khoảng 30–60 phút mỗi ngày. Mỗi lần kiểm tra mất 10p.    |
+| # | Lăng kính                                                              | Job Story: Khi…, tôi muốn…, để…                                                                                                                                                                          | Ai chịu ảnh hưởng? | Dấu hiệu thật (thời gian, tần suất, số người, bằng chứng)                                                                                                                                                                    |
+| -: | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin              | Khi bắt đầu một buổi thực hành, tôi muốn nhanh chóng nắm được yêu cầu và việc cần làm từ các file hướng dẫn, để bắt tay vào bài mà không mất nhiều thời gian dò tài liệu. | Tôi, học viên L3    | Mỗi buổi sáng từ thứ Hai đến thứ Sáu; tôi mất khoảng 15–30 phút để đọc các file Markdown.                                                                                                                            |
+| 2 | Tốn thời gian                                                          | Khi có nhiều task và deadline, tôi muốn xác định việc nào cần ưu tiên trước, để hoàn thành bài đúng hạn.                                                                                 | Tôi, học viên L3    | Hôm qua tôi chạm mốc deadline nộp Codelab 02.                                                                                   |
+| 3 | Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin              | Khi ôn lại kiến thức của các buổi trước, tôi muốn hệ thống lại những nội dung cần nhớ, để nắm vững và vận dụng được kiến thức.                                                    | Tôi, học viên L3    | Hôm qua tôi dành khoảng 2 giờ đọc lại slide Day 1 và Day 2.                                                                                                                                                                    |
+| 4 | Lặp lại · Tốn thời gian                                             | Khi kết thúc mỗi ngày học, tôi muốn kiểm tra những bài tập đã nộp và nhiệm vụ đã hoàn thành, để phát hiện việc còn thiếu và không bỏ sót đầu việc.                           | Tôi, học viên L3    | Mỗi ngày tôi dành khoảng 10 phút để kiểm tra.                                                                                                                                                                                  |
+| 5 | Lặp lại · Tốn thời gian                                             | Khi kết thúc mỗi ngày học, tôi muốn xem lịch trình của ngày hôm sau, để chủ động phân bổ thời gian và chuẩn bị trước.                                                                  | Tôi, học viên L3    | Mỗi ngày tôi dành khoảng 10–15 phút để kiểm tra lịch trình.                                                                                                                                                                 |
+| 6 | Lặp lại · Tốn thời gian · Cần đọc, tổng hợp nhiều thông tin | Khi có cập nhật trong ngày, tôi muốn nắm được tin nhắn và thay đổi lịch trình quan trọng, để không bỏ lỡ thông tin cần xử lý.                                                         | Tôi, học viên L3    | Tôi kiểm tra 3 kênh: Discord, Outlook và Zalo nhiều lần trong ngày. Mỗi lượt kiểm tra cả 3 kênh mất khoảng 10 phút; do số lượt mỗi ngày không cố định, tổng thời gian dao động khoảng 30–60 phút/ngày. |
 
 **Nếu có dùng AI để gợi ý thêm:** Các problem trong bảng xuất phát từ phần tự scan; tôi dùng AI để rà soát và chỉnh cách diễn đạt Job Story, không thêm problem mới từ gợi ý của AI.
 
@@ -39,43 +39,85 @@ Các vấn đề dưới đây được ghi từ trải nghiệm của tôi. Hi�
 
 | Rank | Problem                                                        | Vì sao chọn                                                                                                                                              | Điều còn chưa chắc                                                                                                                                    |
 | ---: | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    1 | Theo dõi cập nhật trong ngày từ Zalo, Discord và Outlook | Thời gian ghi nhận cao nhất trong các vấn đề đã scan: khoảng 30–60 phút mỗi ngày; tôi phải kiểm tra nhiều kênh nhiều lần trong ngày. | Chưa đo thời gian cho từng bước; cần xác định loại cập nhật quan trọng ở từng kênh và kiểm tra có bỏ lỡ thông tin thực tế không. |
-|    2 | Đọc hướng dẫn để nắm yêu cầu và việc cần làm     | Xảy ra mỗi buổi thực hành và hiện mất khoảng 15–30 phút đọc các file Markdown.                                                               | Chưa rõ thời gian chủ yếu mất ở tìm đúng file, đọc nội dung hay xác định đầu việc; chưa đo riêng từng bước.                       |
-|    3 | Kiểm tra bài tập đã nộp và nhiệm vụ đã hoàn thành | Là việc lặp lại hằng ngày, khoảng 10 phút mỗi lần; quy trình có thể mô tả và đo được.                                                  | Chưa ghi nhận có lần bỏ sót bài/tác vụ; chưa biết có thể rút ngắn thời gian mà vẫn đảm bảo không bỏ sót hay không.                |
+|    1 | Theo dõi cập nhật trong ngày từ Zalo, Discord và Outlook | Thời gian ghi nhận cao nhất trong các vấn đề đã scan: khoảng 30–60 phút mỗi ngày; tôi phải kiểm tra nhiều kênh nhiều lần trong ngày. | Cần xác định tiêu chí nhận diện cập nhật quan trọng ở từng kênh và cách kiểm tra việc bỏ lỡ thông tin cần xử lý. |
+|    2 | Đọc hướng dẫn để nắm yêu cầu và việc cần làm     | Xảy ra mỗi buổi thực hành và hiện mất khoảng 15–30 phút đọc các file Markdown.                                                               | Cần xác định khâu chiếm nhiều thời gian nhất: tìm file, đọc hướng dẫn hay tổng hợp đầu việc. |
+|    3 | Kiểm tra bài tập đã nộp và nhiệm vụ đã hoàn thành | Là việc lặp lại hằng ngày, khoảng 10 phút mỗi lần; quy trình có thể mô tả và đo được.                                                  | Cần xác định cách rút ngắn thời gian kiểm tra mà vẫn đảm bảo không bỏ sót bài tập hoặc nhiệm vụ. |
 
 ### Problem Card #1
 
 
-| Trường                                        | Nội dung                                                                                                                                                                                                                                  |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Job Story                                       | Khi có cập nhật trong ngày, tôi muốn nắm được tin nhắn và thay đổi lịch trình quan trọng trên các kênh mình theo dõi, để không bỏ lỡ thông tin cần xử lý.                                                   |
-| Actor                                           | Tôi, học viên L3 sử dụng Zalo, Discord và Outlook để nhận thông tin.                                                                                                                                                             |
-| Thời điểm / bối cảnh                       | Nhiều lần trong ngày, khi kiểm tra Zalo, Discord và Outlook.                                                                                                                                                                  |
-| Quy trình hiện tại (3–7 bước)             | 1. Mở lần lượt Zalo, Discord và Outlook. 2. Xem thông báo/tin nhắn mới ở từng kênh. 3. Mở nội dung liên quan để tìm cập nhật cần xử lý. 4. Xác định thông tin quan trọng và ghi nhớ việc cần làm. |
-| Bottleneck (bước nào, mất bao nhiêu phút) | Kiểm tra nhiều kênh và xác định tin nào cần xử lý; Mỗi app mất khoảng 5p để đọc, Tổng cho 4 app là 20p. Tổng thời gian kiểm tra hiện ghi nhận khoảng 30–60 phút/ngày.                                         |
-| Impact (nếu không giải thì sao)             | Có nguy cơ bỏ lỡ tin nhắn hoặc thay đổi lịch trình quan trọng;                                                                                                                                                                  |
-| Success metric (baseline → target)             | Giảm ít nhất 50% thời gian kiểm tra mà không bỏ lỡ cập nhật cần xử lý, từ 30-60p ngày xuống dưới 20p một ngày.                                                                                                        |
-| Phương án không dùng AI                    | Xác định kênh chính cho từng loại thông tin, tắt thông báo không cần thiết và gom các lần kiểm tra những kênh còn lại vào khung giờ cố định.                                                                    |
-| Giả thuyết về AI (nếu có)                  | AI tự động động đọc các tin mới, so sánh đối chiếu với các lịch trình cũ, thông báo khi có thông tin quan trọng và lịch trình bị thay đổi                                                                     |
-| Cảm nhận nhanh                                |                                                                                                                                                                                                                                            |
+| Trường                                        | Nội dung                                                                                                                                                                                                                                        |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Job Story                                       | Khi có cập nhật trong ngày, tôi muốn nắm được tin nhắn và thay đổi lịch trình quan trọng trên các kênh mình theo dõi, để không bỏ lỡ thông tin cần xử lý.                                                         |
+| Actor                                           | Tôi, học viên L3 sử dụng Zalo, Discord và Outlook để nhận thông tin.                                                                                                                                                                   |
+| Thời điểm / bối cảnh                       | Nhiều lần trong ngày, khi kiểm tra Zalo, Discord và Outlook.                                                                                                                                                                                |
+| Quy trình hiện tại (3–7 bước)             | 1. Mở lần lượt Zalo, Discord và Outlook (1 phút). 2. Xem thông báo/tin nhắn mới ở từng kênh (3 phút). 3. Mở nội dung liên quan để tìm cập nhật cần xử lý (4 phút). 4. Xác định thông tin quan trọng và ghi nhớ việc cần làm (2 phút). |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, mở và đọc nội dung liên quan để tìm cập nhật cần xử lý, khoảng 4 phút/lượt. Tổng một lượt kiểm tra 3 kênh khoảng 10 phút; số lượt mỗi ngày không cố định nên tổng thời gian ghi nhận khoảng 30–60 phút/ngày. |
+| Impact (nếu không giải thì sao)             | Có nguy cơ bỏ lỡ tin nhắn hoặc thay đổi lịch trình quan trọng;                                                                                                                                                                        |
+| Success metric (baseline → target)             | Baseline: 30–60 phút/ngày. Ghi thời gian kiểm tra trong 1 tuần để xác định mức trung bình; mục tiêu là giảm ít nhất 50% so với baseline trung bình mà không bỏ lỡ cập nhật cần xử lý. |
+| Phương án không dùng AI                    | Xác định kênh chính cho từng loại thông tin, tắt thông báo không cần thiết và gom các lần kiểm tra những kênh còn lại vào khung giờ cố định.                                                                          |
+| Giả thuyết về AI (nếu có)                  | AI có thể hỗ trợ rà soát tin mới trên 3 kênh và gợi ý tin nhắn hoặc thay đổi lịch trình cần chú ý; tôi kiểm tra lại trước khi xử lý. Khả năng truy cập dữ liệu và tiêu chí xác định tin quan trọng cần được kiểm chứng. |
+| Cảm nhận nhanh                                | Chưa biết; cần kiểm chứng tiêu chí xác định cập nhật cần xử lý và khả năng truy cập dữ liệu trước khi chọn mức can thiệp.                                                                                                                                                                                                                                                  |
 
 Quy trình hiện tại:
 
 ```text
-MỞ ZALO, DISCORD, OUTLOOK
-→ XEM TIN MỚI Ở TỪNG KÊNH
-→ TÌM CẬP NHẬT CẦN XỬ LÝ
-→ XÁC ĐỊNH THÔNG TIN QUAN TRỌNG VÀ VIỆC CẦN LÀM
-Tổng thời gian hiện ghi nhận: 30–60 phút/ngày; thời gian mỗi lần kiểm tra khoảng 20p cho tất cả các app mỗi lần.
+MỞ ZALO, DISCORD, OUTLOOK (1 phút)
+→ XEM TIN MỚI Ở TỪNG KÊNH (3 phút)
+→ TÌM CẬP NHẬT CẦN XỬ LÝ (4 phút)
+→ XÁC ĐỊNH THÔNG TIN QUAN TRỌNG VÀ VIỆC CẦN LÀM (2 phút)
+Tổng khoảng 10 phút/lượt; số lượt kiểm tra mỗi ngày không cố định nên tổng thời gian ghi nhận dao động khoảng 30–60 phút/ngày.
 ```
 
-### Problem Card #2 và #3 (tóm tắt)
+### Problem Card #2 — Đọc hướng dẫn để nắm yêu cầu
 
+| Trường | Nội dung |
+|---|---|
+| Job Story | Khi bắt đầu một buổi thực hành, tôi muốn nhanh chóng nắm được yêu cầu và việc cần làm từ các file hướng dẫn, để bắt tay vào bài mà không mất nhiều thời gian dò tài liệu. |
+| Actor | Tôi, học viên L3 đang làm bài thực hành. |
+| Thời điểm / bối cảnh | Khi bắt đầu mỗi buổi thực hành. |
+| Quy trình hiện tại (3–7 bước) | 1. Tìm/mở các file Markdown liên quan (2–4 phút). 2. Đọc hướng dẫn để tìm yêu cầu của buổi (8–15 phút). 3. Xác định các đầu việc cần làm (3–6 phút). 4. Ghi nhớ hoặc ghi lại yêu cầu để bắt đầu thực hành (2–5 phút). |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 2, đọc và dò các file Markdown để tìm yêu cầu của buổi, khoảng 8–15 phút. Tổng thời gian hiện ghi nhận khoảng 15–30 phút/buổi. |
+| Impact (nếu không giải thì sao) | Mất thời gian trước khi bắt tay vào thực hành và có nguy cơ bỏ sót yêu cầu. |
+| Success metric (baseline → target) | Baseline hiện ghi nhận 15–30 phút/buổi. Mục tiêu: giảm ít nhất 50% thời gian trung bình so với baseline đo được, đồng thời vẫn nắm đủ các yêu cầu và đầu việc. |
+| Phương án không dùng AI | Sắp xếp file hướng dẫn theo checkpoint, dùng mục lục và checklist yêu cầu/đầu việc cho mỗi buổi. |
+| Giả thuyết về AI (nếu có) | AI có thể hỗ trợ tóm tắt yêu cầu và liệt kê đầu việc từ các file Markdown; tôi cần đối chiếu kết quả với hướng dẫn gốc để tránh thiếu hoặc sai yêu cầu. |
+| Cảm nhận nhanh | Rule hoặc Workflow đơn giản có thể đủ; cần thử mục lục/checklist trước khi cân nhắc AI. |
 
-| Card                                        | Actor                                     | Bottleneck                                                                                                                          | Metric                                                                | Cảm nhận nhanh |
-| ------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------- |
-| Đọc hướng dẫn để nắm yêu cầu (#1) | Học viên L3 đang làm bài thực hành | Tìm đúng file, đọc hướng dẫn và xác định đầu việc; chưa đo riêng thời gian từng bước                          | 15–30 phút/buổi → mục tiêu giảm ít nhất 50%;                 | Rule / Workflow  |
-| Kiểm tra bài tập và nhiệm vụ (#4)     | Học viên L3                             | Đối chiếu yêu cầu/deadline với trạng thái bài đã nộp và nhiệm vụ đã xong; bước nghẽn cụ thể chưa xác định | Khoảng 10 phút/ngày → giảm thời gian mà không bỏ sót việc; | Rule / Workflow  |
+Quy trình hiện tại:
+
+```text
+TÌM/MỞ FILE HƯỚNG DẪN (2–4 phút)
+→ ĐỌC VÀ DÒ YÊU CẦU CỦA BUỔI (8–15 phút)
+→ XÁC ĐỊNH CÁC ĐẦU VIỆC (3–6 phút)
+→ GHI NHỚ/GHI LẠI ĐỂ BẮT ĐẦU THỰC HÀNH (2–5 phút)
+Tổng thời gian ghi nhận: 15–30 phút/buổi.
+```
+
+### Problem Card #3 — Kiểm tra bài tập và nhiệm vụ đã hoàn thành
+
+| Trường | Nội dung |
+|---|---|
+| Job Story | Khi kết thúc mỗi ngày học, tôi muốn kiểm tra những bài tập đã nộp và nhiệm vụ đã hoàn thành, để phát hiện việc còn thiếu và không bỏ sót đầu việc. |
+| Actor | Tôi, học viên L3. |
+| Thời điểm / bối cảnh | Cuối mỗi ngày học. |
+| Quy trình hiện tại (3–7 bước) | 1. Xem lại danh sách bài tập và nhiệm vụ cần làm (2 phút). 2. Kiểm tra trạng thái nộp bài và hoàn thành nhiệm vụ (2 phút). 3. Đối chiếu với yêu cầu và deadline (4 phút). 4. Ghi lại việc còn thiếu hoặc cần làm tiếp (2 phút). |
+| Bottleneck (bước nào, mất bao nhiêu phút) | Bước 3, đối chiếu yêu cầu và deadline với trạng thái hoàn thành để tìm việc còn thiếu, khoảng 4 phút. Tổng thời gian hiện ghi nhận khoảng 10 phút/ngày. |
+| Impact (nếu không giải thì sao) | Có nguy cơ bỏ sót bài tập hoặc nhiệm vụ. |
+| Success metric (baseline → target) | Baseline hiện ghi nhận khoảng 10 phút/ngày. Mục tiêu thử nghiệm: giảm thời gian xuống không quá 5 phút/ngày mà không bỏ sót bài tập hoặc nhiệm vụ; cần theo dõi thời gian và số việc bị bỏ sót để đánh giá. |
+| Phương án không dùng AI | Dùng checklist hằng ngày có tên bài/nhiệm vụ, deadline, trạng thái và liên kết nộp bài. |
+| Giả thuyết về AI (nếu có) | Chưa rõ có cần AI; trước tiên có thể thử checklist hoặc Rule nhắc việc dựa trên deadline và trạng thái. |
+| Cảm nhận nhanh | No AI hoặc Rule có thể đủ; chưa có bằng chứng cho thấy cần Workflow hay Agent. |
+
+Quy trình hiện tại:
+
+```text
+XEM DANH SÁCH BÀI TẬP VÀ NHIỆM VỤ (2 phút)
+→ KIỂM TRA TRẠNG THÁI NỘP BÀI/HOÀN THÀNH (2 phút)
+→ ĐỐI CHIẾU YÊU CẦU VÀ DEADLINE (4 phút)
+→ GHI LẠI VIỆC CÒN THIẾU HOẶC CẦN LÀM TIẾP (2 phút)
+Tổng thời gian ghi nhận: khoảng 10 phút/ngày.
+```
 
 ### Card muốn pitch nhất
 
@@ -83,12 +125,14 @@ Tổng thời gian hiện ghi nhận: 30–60 phút/ngày; thời gian mỗi l�
 - Vì sao: Đây là vấn đề tôi ghi nhận tốn thời gian nhiều nhất (30–60 phút/ngày) và xảy ra nhiều lần trong ngày.
 - Câu hỏi muốn nhóm phản biện: Làm thế nào xác định cập nhật nào thật sự cần xử lý, và liệu gom thời gian kiểm tra thông báo có giảm thời gian mà không làm tôi bỏ lỡ việc quan trọng không?
 
-### AI đã phản biện card thế náo
+### AI đã phản biện card thế nào
 
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 | ---------------------- | ---------- | ------------- |
-|                        |            |               |
+| Tiêu chí “cập nhật quan trọng” và “cần xử lý” chưa được định nghĩa rõ; các loại tin cần chú ý và tình huống cần hành động cần được phân biệt. | Đồng ý một phần | Giữ thay đổi lịch trình là một loại thông tin cần chú ý; bổ sung việc xác định tiêu chí cho các tin nhắn khác và giữ bước người dùng kiểm tra, không để AI tự quyết định. |
+| Mục tiêu giảm ít nhất 50% và mục tiêu cố định dưới 20 phút/ngày chưa nhất quán với baseline 30–60 phút/ngày. | Đồng ý | Dùng baseline trung bình của một tuần làm mốc, rồi đặt target giảm ít nhất 50% so với mốc đó. |
+| Giả thuyết AI cần quyền truy cập dữ liệu từ cả ba kênh và khả năng nhận diện chính xác cập nhật; AI tự thông báo có thể gây bỏ sót hoặc báo nhầm. | Đồng ý | Giới hạn AI ở việc rà soát và gợi ý; người dùng kiểm tra trước khi xử lý. Bổ sung quyền truy cập dữ liệu và tiêu chí nhận diện cập nhật vào các điểm cần kiểm chứng. |
 
 ---
 

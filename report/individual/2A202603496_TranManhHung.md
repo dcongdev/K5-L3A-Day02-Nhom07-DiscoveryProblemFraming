@@ -9,7 +9,7 @@
 - Họ tên: Trần Mạnh Hùng
 - MSSV: 2A202603496
 - Email trường (không bắt buộc, repo có thể để public): hungmochi003@gmail.com
-- Tên nhóm:
+- Tên nhóm: Nhóm 7
 - Link repo nhóm: https://github.com/dcongdev/K5-L3A-Day02-DuongVanCong-2A202603468-DiscoveryProblemFraming.git
 
 ---

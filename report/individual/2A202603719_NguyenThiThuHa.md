@@ -180,19 +180,24 @@ Quy trình nháp hiện tại:
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+Khi xem card đăng ký tín chỉ có minh chứng thực tế, mình đã hỏi thẳng Tài xem số liệu đó là tự đo hay chỉ ước lượng. Mình nhận ra card thuyết phục người nghe nhờ có số liệu thực tế chứng minh rõ ràng, còn card yếu chỉ đưa ra nhận định chung chung dựa trên cảm tính. Lần sau mình sẽ hỏi vặn kỹ nguồn gốc và cách đo đạc số liệu trước khi chấp nhận bất kỳ thông tin nào đưa vào bài.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
-
+Lúc đầu mình định chọn giải pháp Workflow cho card thông báo, nhưng ngay sau đó nhóm nhận ra lỗi tư duy giải pháp trước (solution-first) và chốt lại dùng Rule/No AI. Mình nhận ra việc vội vã đưa công nghệ vào khi chưa hiểu rõ vấn đề rất dễ làm rối tung quy trình xử lý. Lần sau mình sẽ ép bản thân và nhóm phải phân tích kỹ bản chất nút thắt trước khi chọn bất kỳ công cụ nào.
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
-
+Trong phiên AI phản biện, mình đã đổi bottleneck sang bước 5 và thêm cách đo cụ thể, nhưng mình chưa chịu ý kiến về "tần suất thấp" vì điều đó vô tình bác bỏ giả định ban đầu của nhóm. Mình nhận ra mình vẫn còn tâm lý ngại thay đổi và muốn bảo vệ ý kiến cũ thay vì khách quan đón nhận góc nhìn mới. Lần sau mình sẽ cởi mở đặt lại câu hỏi xem dữ kiện của AI có điểm nào hợp lý để kiểm chứng lại giả định của mình.
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
-
+Mình rất bất ngờ khi biết thời gian của mình chỉ mất 5–10 phút còn Tài lại mất tận 30–60 phút cho cùng một vấn đề, trong khi nhóm chưa hỏi được ai ngoài để kiểm chứng. Mình nhận ra kết luận dựa trên trải nghiệm của 0 người ngoài nhóm là hoàn toàn không có độ tin cậy và mang nặng tính chủ quan. Lần sau mình sẽ không vội chốt bài khi chưa đem giả định đi hỏi trực tiếp những người bên ngoài.
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
-
+Trong ba thứ v1 thêm vào gồm so sánh No AI với Rule, thời gian thiết lập và ngưỡng 30 phút, thì việc làm rõ ngưỡng tin khẩn dưới 30 phút là khó nghĩ ra nhất vì nhóm phải cân đối giữa áp lực thời gian thực tế và khả năng xử lý. Mình nhận ra việc định lượng một tiêu chuẩn cụ thể khó hơn nhiều so với việc chỉ nói lý thuyết suông. Lần sau mình sẽ bóc tách dữ liệu lịch sử hoặc hành vi thực tế để tìm ra con số có căn cứ sớm hơn.
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
+Nếu làm lại Checkpoint 6, mình sẽ phân công các thành viên rà soát chéo lỗi chưa bấm giờ thật và việc hỏi được 0 người ngoài, thay vì để mặc định trưởng nhóm tự xử lý việc rà soát rủi ro. Mình nhận ra cách chia việc cũ khiến phản biện nhóm bị yếu đi do thiếu các góc nhìn độc lập phát hiện lỗ hổng. Lần sau mình sẽ phân phối đều trách nhiệm tìm lỗi cho mọi người để tăng sức chiến đấu và tính khách quan cho bài làm.
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
-
+- Vấn đề cốt lõi của nhóm là quy trình xử lý tin khẩn đang bị nghẽn (bottleneck) ở bước phân loại.
+- Nhóm đặt mục tiêu kéo thời gian xử lý xuống ngưỡng tin khẩn dưới hoặc bằng 30 phút, với baseline hiện tại và target đạt trên hoặc bằng 50%.
+- Thiết lập Boundary nghiêm ngặt là công cụ tuyệt đối không tự động trả lời, tự xóa tin nhắn hay tự đổi lịch trình của người dùng.
+- Bài này nhóm đánh giá trạng thái Not Yet vì thực tế nhóm chưa làm ra một sản phẩm nào để đem đi chạy thử nghiệm.
+- Nhóm chưa đưa lên Workflow vì hiện tại vẫn chưa có bằng chứng thực tế cho thấy phần đọc tin nhắn hết nghẽn sau khi áp dụng Rule.
 ---
 
 ## 7. Tài liệu tham khảo

@@ -6,11 +6,11 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
+- Họ tên: Nguyễn Thị Thu Hà
+- MSSV:2A202603719
 - Email trường (không bắt buộc, repo có thể để public):
-- Tên nhóm:
-- Link repo nhóm:
+- Tên nhóm:nhóm 7
+- Link repo nhóm: https://github.com/dcongdev/K5-L3A-Day02-DuongVanCong-2A202603468-DiscoveryProblemFraming
 
 ---
 

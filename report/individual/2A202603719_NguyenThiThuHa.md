@@ -46,7 +46,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 
 | Trường | Nội dung |
 |---|---|
-| Job Story | Khi đăng ký tín chỉ đầu mỗi kỳ học, tôi phải sắp xếp thời khóa biểu để không bị trùng lịch và còn chỗ, để đủ tín chỉ mà không mất nhiều thời gian xếp đi xếp lại |
+| Job Story | Khi đăng ký tín chỉ đầu mỗi kỳ học, tôi muốn sắp xếp thời khóa biểu để không bị trùng lịch và còn chỗ, để đủ tín chỉ mà không mất nhiều thời gian xếp đi xếp lại |
 | Actor |Sinh viên tự đăng ký tín chỉ |
 | Thời điểm / bối cảnh |Đầu mỗi kỳ, khi trường mở cổng đăng ký; nhiều sinh viên vào cùng lúc, lớp đầy nhanh |
 | Quy trình hiện tại (3–7 bước) |1. Xem chương trình đào tạo, chọn môn cần học -> 2. Xem danh sách lớp mở -> 3. Xếp thời khóa biểu thử -> 4. Canh giờ mở cổng, đăng ký -> 5.Lớp đầy hoặc trùng thì xếp lại |
@@ -139,7 +139,9 @@ Quy trình nháp hiện tại:
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| | | |
+| Bottleneck thật là lớp đầy khi đăng ký, không phải bước xếp lịch | Đồng ý một phần | Sửa bottleneck: bước 5 "lớp đầy → xếp lại dưới áp lực thời gian" là nghẽn chính; xếp lịch trước là nguyên nhân phụ vì không có phương án dự phòng |
+| Metric chưa có cách đo, baseline chỉ từ 1 người | Đồng ý | Thêm cách đo: bấm giờ lần xếp lịch kỳ tới; hỏi thêm 3–5 bạn cùng khóa để có baseline |
+| Tần suất thấp, phương án không AI có thể đã đủ | Chưa đồng ý hẳn | Giữ card nhưng ghi rõ ở "Điều còn chưa chắc": cần kiểm chứng xem lập phương án dự phòng trước có giải được không |
 
 ---
 

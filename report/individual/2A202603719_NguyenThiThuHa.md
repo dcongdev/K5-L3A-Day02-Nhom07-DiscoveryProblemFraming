@@ -151,14 +151,14 @@ Quy trình nháp hiện tại:
 |---|---|---|
 | Pitch Problem Card | Pitch 3 card: #2 Đăng ký tín chỉ, #7 Thông báo rải rác nhiều kênh, #8 Theo dõi tiến độ bài nhóm | Card #7 được gom vào cluster A cùng card của Tài (candidate được chọn); card #7 được dùng làm nguồn đối chiếu ở CP4 (5–10 phút/ngày so với 30–60 phút/ngày của Tài) |
 | Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: hỏi Công (#1) "Tiền phòng tính theo công thức cố định, sao không dùng Excel?"; hỏi Tài (#3) "Card ghi 4 app nhưng chỉ liệt kê 3 kênh; 30–60 phút/ngày là đo hay ước lượng?"; hỏi Hùng (#4) "Giảm thời gian chép từ có làm nhớ từ kém đi không?" | Câu hỏi cho Tài giúp nhóm ghi rõ 30–60 phút là số tự thuật và thêm bước bấm giờ 5 ngày để lấy baseline (CP4–CP5); câu hỏi cho Công và Hùng trở thành lý do loại #1 và #4 khi chấm shortlist |
-| Nhận phản biện | Câu hỏi tôi nhận được: [cần bạn điền] | Tôi đã sửa gì: [cần bạn điền] |
-| Gom cluster / cây OST | [cần bạn điền] | |
-| Chọn candidate problem | [cần bạn điền] | |
-| Kiểm chứng / research | [cần bạn điền] | |
-| Quy trình nhóm | [cần bạn điền] | |
-| Problem Statement | [cần bạn điền] | |
-| Mức can thiệp AI | [cần bạn điền] | |
-| Quyết định | [cần bạn điền] | |
+| Nhận phản biện | Câu hỏi tôi nhận được: bảng pitch nhóm (mục 2.1) chưa ghi nhận câu hỏi phản biện nào cho 3 card của tôi; phản biện chính tôi nhận được là từ AI cho card #1 (xem mục 3) | Tôi đã sửa gì: sửa bottleneck card #1 thành bước 5 "lớp đầy → xếp lại dưới áp lực thời gian"; thêm cách đo baseline (bấm giờ kỳ tới, hỏi 3–5 bạn cùng khóa); ghi rõ điều còn chưa chắc về phương án dự phòng |
+| Gom cluster / cây OST | Hỗ trợ CP3 (Công phụ trách chính, theo TEAM.md): xếp 3 card của mình vào các cluster | Card #7 vào cluster A (thông báo phân tán) cùng card của Tài; card #8 vào cluster D (theo dõi phần việc còn thiếu); card #2 thành cluster E riêng vì chưa có bài tương tự |
+| Chọn candidate problem | Tham gia chấm shortlist và chọn candidate cùng nhóm | Nhóm chọn #3 của Tài (theo dõi cập nhật quan trọng trong ngày). Các điểm tôi phản biện (Excel cho #1, hiệu quả học từ cho #4, baseline tự thuật cho #3) nằm trong lý do chọn/loại ở mục 2.4 |
+| Kiểm chứng / research | Không phụ trách chính (Tài phụ trách CP4). Card thông báo của tôi được dùng làm một nguồn tự thuật để đối chiếu | Thời gian của tôi (5–10 phút/ngày) thấp hơn nhiều so với Tài (30–60 phút/ngày), là tín hiệu để nhóm không khái quát pain cho mọi học viên và giới hạn phạm vi ở trường hợp của Tài |
+| Quy trình nhóm | Không phụ trách chính (Hùng phụ trách CP5) | Quy trình trước/sau là đầu vào cho phần CP6 tôi phụ trách: bottleneck bước 3 (đọc tìm cập nhật ~4/10 phút/lượt) và mô hình before/after giảm khoảng 33–42% |
+| Problem Statement | v0 do Hùng phụ trách (CP5); tôi phụ trách chính Problem Statement v1 (CP6, theo TEAM.md) | v1 bổ sung so sánh No AI với Rule, ghi riêng thời gian thiết lập/bảo trì, ngưỡng độ trễ 30 phút cho tin khẩn; boundary làm rõ Rule không hiểu ngữ cảnh thay người dùng; thêm 5 tiêu chí đánh giá |
+| Mức can thiệp AI | Phụ trách chính CP6 (theo TEAM.md): ma trận độ mơ hồ × độ phức tạp, so sánh 4 mức No AI / Rule / Workflow / Agent | Đề xuất Rule kết hợp No AI, giữ No AI làm đối chứng; chưa chọn Workflow vì chưa chứng minh phần đọc hiểu còn nghẽn và chưa xác minh quyền dữ liệu; không chọn Agent vì các bước đã mô tả trước được |
+| Quyết định | Phụ trách chính phần 4 rủi ro và kết luận; Công, Tài, Hùng hỗ trợ | Kết luận Not Yet: Value rủi ro Cao (chưa khảo sát ngoài nhóm, baseline chưa đo, mô hình mới giảm 33–42% chưa đạt 50%). Đề ra pilot nhỏ nhất và các ngưỡng dừng |
 
 ---
 

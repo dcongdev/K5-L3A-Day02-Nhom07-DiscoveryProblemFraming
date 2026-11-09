@@ -60,13 +60,13 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 Quy trình nháp hiện tại:
 
 ```text
-[1] Xem CTĐT, chọn môn        ~[5] phút
+[1] Xem CTĐT, chọn môn        ~5 phút
       ↓
-[2] Xem danh sách lớp mở      ~[10] phút
+[2] Xem danh sách lớp mở      ~10 phút
       ↓
 [3] Xếp TKB thử               ~30–40 phút   ⚠ BOTTLENECK
       ↓
-[4] Canh giờ mở cổng, đăng ký ~[10] phút
+[4] Canh giờ mở cổng, đăng ký ~10 phút
       ↓
 [5] Lớp đầy/trùng → quay lại [3]   (đã xảy ra 2 lần)  ⚠ BOTTLENECK
 ```

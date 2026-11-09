@@ -9,7 +9,7 @@
 - Họ tên: Trần Mạnh Hùng
 - MSSV: 2A202603496
 - Email trường (không bắt buộc, repo có thể để public): hungmochi003@gmail.com
-- Tên nhóm: Nhóm 7
+- Tên nhóm: Nhóm 07
 - Link repo nhóm: https://github.com/dcongdev/K5-L3A-Day02-DuongVanCong-2A202603468-DiscoveryProblemFraming.git
 
 ---
@@ -194,16 +194,16 @@ Bottleneck chính: Bước 3 + Bước 4 (tổng 105 phút đối chiếu chức
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch 3 candidate cá nhân: #4 Từ vựng B1, #11 Tổng hợp NCKH và #12 Đối chiếu Test case với SRS KTPM. Trình bày rõ actor, quy trình, bottleneck thời gian và metric đo lường. | Cả 3 bài được đưa vào bảng pitch chung của nhóm; bài B1 (#4) và NCKH (#11) được gom vào Cluster C, bài Test case (#12) vào Cluster D; bài B1 lọt vào shortlist chấm điểm và đạt 27/35 điểm. |
+| Phản biện bài của bạn khác | • **Câu hỏi tôi đã đặt cho Tài (#3 - Theo dõi cập nhật):** *"Nếu tin nhắn quan trọng từ giảng viên/trợ giảng trong kênh chung không tag @everyone hoặc không mention trực tiếp Tài, thì làm sao để phân biệt được với tin nhắn trò chuyện thông thường mà không phải đọc thủ công từng tin?"*<br>• **Câu hỏi tôi đã đặt cho Công (#1 - Chốt tiền phòng):** *"Các khoản phát sinh điện nước và phí dịch vụ mỗi tháng có công thức biến động nhiều không, và liệu một file Excel có công thức cố định đã giải quyết được chưa mà cần phải xây dựng giải pháp riêng?"* | • Tài đã tiếp thu và ghi nhận vào bảng giả định cần kiểm chứng (Giả định #2); nhóm thống nhất đưa tiêu chí nhận diện tin nhắn không mention vào phạm vi đánh giá ở CP4 & CP5.<br>• Công đồng ý rằng bài toán tiền phòng có thể giải quyết tốt bằng bảng tính cố định (No AI), từ đó nhóm thống nhất không chọn bài #1 làm candidate chính. |
+| Nhận phản biện | • **Câu hỏi tôi nhận được (từ Tài và Hà cho bài B1 #4):** *"Việc giảm thời gian chép và tra từ có thực sự giúp người học nhớ từ lâu hơn trong bài thi đọc hiểu không, hay chính quá trình tự tay tra cứu và chép lại mới tạo ra phản xạ ghi nhớ?"* | • **Tôi đã sửa:** Thừa nhận đây là giả định rủi ro về Value. Đã bổ sung vào điều kiện của giải pháp: không chỉ trích xuất từ đơn lẻ mà bắt buộc phải lưu kèm trọn vẹn cả câu ngữ cảnh gốc và câu ví dụ tương đương để bảo toàn hiệu quả ghi nhớ. |
+| Gom cluster / cây OST | Cùng Dương Văn Công và cả nhóm phân loại 12 candidate thành 6 cluster (A đến F); trực tiếp đề xuất định hình Cluster C (Tra cứu & trích xuất kiến thức) và Cluster D (Theo dõi & phát hiện phần việc còn thiếu). Cùng nhóm xác định Outcome chung ở gốc cây OST: *"Giảm thời gian kiểm tra cập nhật từ mức 30–60 phút/ngày, đồng thời không bỏ sót thông tin cần xử lý"*. | Tách bạch hoàn toàn giữa Nhu cầu thực tế (Opportunity) và Tính năng công nghệ (Solution trá hình); giúp nhóm không bị cuốn vào bẫy "nghĩ chatbot trước khi hiểu bài toán". |
+| Chọn candidate problem | Cùng nhóm chấm điểm shortlist trên 7 tiêu chí. Bài B1 của tôi và bài #3 của Tài cùng đạt 27/35 điểm. Tôi đã chủ động phân tích và đồng thuận chọn bài #3 của Tài. | Nhóm hội tụ thành công về 1 candidate duy nhất (#3 của Tài) vì đây là bối cảnh chung mà cả 4 thành viên trong nhóm đều gặp phải hàng ngày khi học L3, dễ đo lường và vừa sức hơn bài B1 (vốn mang tính học tập cá nhân). |
+| Kiểm chứng / research | Hỗ trợ Trần Văn Tài tìm kiếm và đối chiếu tài liệu kỹ thuật chính thức của 3 giải pháp có sẵn: tính năng ghim/phân loại trên Zalo PC, cấu hình notification trên Discord, và Inbox Rules trên Outlook. | Hoàn thành bảng Research giải pháp (Mục 3.3) với 3 link chính thức sống 100%; rút ra kết luận quan trọng cho nhóm: các nền tảng đã có sẵn tính năng lọc/tổ chức, chưa có căn cứ để nhảy ngay lên làm AI phức tạp. |
+| Quy trình nhóm | **Phụ trách chính CP5 (Mục 4 trong group_report.md):**<br>• Mô tả chi tiết quy trình hiện tại của Tài (4 bước, 10 phút/lượt, bottleneck ở bước 3 đọc lọc nội dung mất 4 phút).<br>• Xây dựng quy trình tương lai phân định rõ vai trò Con người vs Rule.<br>• Trực tiếp bổ sung **bước rà soát cuối ngày (5 phút)** để bắt tin sót và thiết kế **phương án quay về (fallback)** khi quy tắc lọc bị lỗi. | Quy trình nhóm chặt chẽ, có đủ số phút từng bước, có phương án fallback rõ ràng, đảm bảo yêu cầu của Rubric C8. |
+| Problem Statement | **Phụ trách chính CP5 (Mục 5 trong group_report.md):** Soạn thảo Problem Statement v0 gồm đủ 6 trường: Actor, Quy trình, Bottleneck, Impact, Success metric đo được (giảm 50% thời gian so với baseline đo 5 ngày học, không bỏ sót cập nhật, độ trễ tin khẩn), và Boundary. | Đưa Problem Statement v0 cho AI phản biện, tiếp thu phản biện về việc không được coi số liệu tự thuật 30-60 phút là baseline đã đo và phải tính thêm chi phí bảo trì quy tắc lọc. |
+| Mức can thiệp AI | Hỗ trợ Nguyễn Thị Thu Hà phân tích ma trận độ mơ hồ × độ phức tạp và lập luận so sánh 4 mức (No AI / Rule / Workflow / Agent). | Thống nhất chọn mức **Rule kết hợp No AI**; bảo vệ quan điểm không nhảy lên Workflow/Agent khi chưa chứng minh được mức đơn giản không đủ dùng. |
+| Quyết định | Cùng cả nhóm đánh giá 4 rủi ro (Value: Cao, Usability: TB, Feasibility: TB, Viability: TB). | Thống nhất kết luận **Not Yet** và thiết lập **4 ngưỡng dừng đo được** (ngừng thử nghiệm ngay nếu lỡ 1 deadline hoặc trễ tin khẩn quá 30 phút). |
 
 ---
 
@@ -211,35 +211,51 @@ Bottleneck chính: Bước 3 + Bước 4 (tổng 105 phút đối chiếu chức
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Mở rộng góc nhìn và tìm kiếm các lăng kính bài toán trong học tập. | Gợi ý thêm các khía cạnh về tra cứu tài liệu và quản lý thông báo. | AI đưa ra các ý tưởng đậm chất "solution trá hình" (ví dụ: *Xây chatbot AI tư vấn quy chế, Bot AI tự chấm điểm*). | Tự loại bỏ các ý tưởng chatbot, viết lại 100% bằng Job Story từ trải nghiệm thật của bản thân (ôn thi B1, làm BTL KTPM, NCKH). |
+| CP2 Problem Card | Đóng vai "PM hoài nghi" để phản biện 3 Problem Card cá nhân. | Chỉ ra các lỗ hổng thực tế: học từ vựng riêng lẻ không giúp làm bài thi đọc, sinh test case thừa từ SRS. | AI gợi ý một số giải pháp tự động hóa quá đà (tự động tạo flashcard mà không cần người dùng duyệt). | Giữ chặt ranh giới boundary: bắt buộc phải lưu kèm câu văn ngữ cảnh gốc và người học phải tự duyệt danh sách từ vựng. |
+| CP4 Research | Tra cứu nhanh cơ chế lọc và phân loại của Zalo, Discord, Outlook. | Tóm tắt nhanh các tính năng sẵn có (Inbox rules, notification settings). | AI trích dẫn một số tính năng mở rộng của tool bên thứ ba không chính thống và suy diễn rằng có thể tích hợp đa kênh dễ dàng. | Tự mình truy cập trang tài liệu chính thức (support.microsoft.com, support.discord.com, help.zalo.me) để kiểm chứng link sống và ghi nhận đúng hạn chế. |
+| CP5 Quy trình | Chuyển đổi mô tả luồng thời gian thành sơ đồ text và bảng Before/After. | Format nhanh sơ đồ luồng thời gian và tính toán tỷ lệ giảm thời gian kỳ vọng. | AI vẽ quy trình tương lai quá màu hồng (tự động hóa 100%, không tính thời gian con người phải kiểm tra lại và không có phương án quay về). | Trực tiếp bổ sung bước rà soát cuối ngày (5 phút) và viết chi tiết kịch bản fallback mở lại nguồn gốc khi quy tắc lọc gặp lỗi. |
+| CP5–6 Problem Statement | Phản biện bản nháp Problem Statement v0. | Rất sắc sảo khi chỉ ra: khoảng 30–60 phút chỉ là số liệu tự thuật, không thể dùng làm baseline đã đo; và "không bỏ sót" là khái niệm quá mơ hồ. | AI có xu hướng viết lại câu chữ rất bóng bẩy nhưng làm mất đi các ràng buộc cụ thể của nhóm. | Không cho AI viết lại; chỉ lấy điểm phản biện để bổ sung yêu cầu: đo baseline bằng log 5 ngày học và quy định ngưỡng độ trễ 30 phút cho tin khẩn. |
+| CP6 Mức can thiệp / quyết định | Thử thách quyết định chọn mức Rule và kết luận Not Yet của nhóm. | Đặt câu hỏi phản biện: *"Tại sao không dùng Agent để tự động quét cả 3 app và thông báo qua bot Telegram?"*. | AI đánh giá thấp rủi ro về quyền riêng tư (vi phạm dữ liệu tin nhắn cá nhân trên Zalo) và chi phí vận hành token của LLM. | Kiên quyết giữ mức Rule kết hợp No AI; lập luận rõ: bài toán sinh viên không có ngân sách API và chưa chứng minh được No AI/Rule bị thất bại. |
 
 ---
 
 ## 6. Reflection (CP7)
 
-Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
-
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+
+Khi lắng nghe phần pitch của các thành viên trong nhóm, bài học lớn nhất tôi nhận được là mỗi người đều có một góc nhìn và "nỗi đau" riêng xuất phát từ chính bối cảnh sinh hoạt và học tập thực tế của họ. Bài toán của Công về việc chốt tiền phòng trọ rất thú vị vì nó mang tính thực tiễn cao, giải quyết sự nhập nhằng trong tính toán điện nước; bài toán của Hà về áp lực đăng ký tín chỉ đầu kỳ phản ánh đúng sự căng thẳng khi phải xếp lịch thủ công dưới áp lực thời gian; còn bài toán của Tài về việc bị ngợp trong ma trận thông báo giữa Zalo, Discord và Outlook lại chạm đúng vào trải nghiệm hàng ngày của tất cả chúng tôi khi tham gia khóa học này. Tôi nhận ra rằng một bài toán tốt không nhất thiết phải nghe thật vĩ mô hay dùng công nghệ đao to búa lớn, mà quan trọng nhất là người đưa ra bài toán phải thực sự "đau", hiểu cặn kẽ từng bước của quy trình và có số liệu thực tế để chứng minh.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
 
+Nhóm tôi đã bị "solution-first" ngay từ những phút đầu tiên khi vừa thống nhất chọn bài toán của Tài! Lúc đó, phản xạ tự nhiên của dân kỹ thuật chúng tôi là hào hứng thảo luận về việc: *"Xây một con bot AI trên Telegram hoặc Discord, dùng webhook hoặc thư viện tự động đọc tin nhắn từ Zalo và Outlook rồi dùng LLM tóm tắt mỗi sáng"*. Cả nhóm đều thấy ý tưởng đó rất "ngầu". Tuy nhiên, khi bắt tay vào làm cây Opportunity Solution Tree ở CP3 và đặc biệt là bước Research ở CP4, nhóm mới giật mình nhận ra: Zalo là nền tảng đóng, không cấp quyền API đọc tin nhắn cá nhân tự do; và bản thân Outlook hay Discord đã có sẵn bộ lọc notification cực mạnh. Nếu cứ cố đâm đầu vào làm bot thì sẽ vi phạm ranh giới bảo mật và tốn công vô ích. Nhóm đã kịp thời phanh lại, gạch bỏ toàn bộ chữ "bot/AI" ra khỏi cây OST và quay về phân tích xem người dùng đang thực sự tốn thời gian ở bước đọc nào trước khi nghĩ đến công cụ.
+
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+
+Tôi đã có một lần đổi ý rất quan trọng ở cuối bước CP3 khi nhóm tiến hành chấm điểm shortlist. Lúc đó, bài toán Trích xuất từ vựng B1 của tôi và bài toán Theo dõi cập nhật của Tài cùng bằng điểm nhau ở vị trí cao nhất (27/35 điểm). Bản thân tôi ban đầu rất muốn nhóm chọn bài B1 vì tôi đã chuẩn bị quy trình rất chi tiết và đây cũng là mục tiêu cá nhân tôi đang theo đuổi. Tuy nhiên, khi bạn Hà và bạn Tài phản biện rằng: bài B1 thực chất chỉ phục vụ nhu cầu học tập của riêng cá nhân tôi trong một giai đoạn ôn thi nhất định, trong khi bài toán kiểm tra thông báo phân tán của Tài lại là nỗi đau chung của cả 4 thành viên và toàn bộ học viên lớp L3 đang phải đối mặt mỗi ngày. Hơn nữa, việc đo lường và kiểm chứng trên kênh Zalo/Discord lớp học ngay tại buổi lab khả thi hơn rất nhiều. Sau khi nghe phản biện thấu tình đạt lý, tôi đã hoàn toàn bị thuyết phục và chủ động đồng thuận chọn bài của Tài làm candidate chính của nhóm.
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
 
+Điều làm tôi bất ngờ nhất khi hỗ trợ Tài làm phần Research (CP4) là các công cụ văn phòng và giao tiếp quen thuộc như Zalo PC, Discord và Outlook thực ra đã tích hợp sẵn rất nhiều tính năng quản lý cực kỳ mạnh mẽ: từ Inbox rules tự động chuyển thư mục, phân loại tag hội thoại cho đến bảng tin ghim nhóm. Lâu nay sinh viên chúng tôi thường kêu ca là bị trôi tin nhắn hoặc ngập trong thông báo, nhưng thực chất là do chúng tôi lười cấu hình hoặc chưa từng bỏ thời gian tìm hiểu các tính năng sẵn có đó. Điều này giúp tôi vỡ lẽ ra rằng: không phải bất kỳ vấn đề nào cũng cần đến AI; việc tối ưu hóa quy trình làm việc và tận dụng triệt để các tính năng No AI/Rule sẵn có đôi khi đã có thể giải quyết được 70–80% nỗi đau mà không tốn một đồng chi phí nào.
+
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
+
+Điều khó nhất đối với tôi khi phụ trách viết Problem Statement v0 chính là xác định **Success Metric** và khoanh định **Boundary**. Khi viết metric, chúng tôi rất dễ bị cám dỗ viết những từ ngữ mơ hồ như "giúp tiết kiệm thời gian", "nắm bắt tin tức nhanh chóng". Nhưng khi bị AI và các bạn trong nhóm soi, tôi nhận ra metric bắt buộc phải có baseline đo được và target cụ thể. Việc Tài chỉ đưa ra con số tự thuật 30–60 phút/ngày là chưa đủ căn cứ, nên tôi đã phải viết lại metric theo hướng: phải bấm giờ thật 5 ngày học để làm mốc so sánh và quy định rõ ngưỡng độ trễ dưới 30 phút cho tin khẩn. Về Boundary, cái khó là phải kiềm chế không cho công cụ tự tiện can thiệp: hệ thống chỉ được hỗ trợ lọc và hiển thị, người dùng bắt buộc phải là người đọc nguồn gốc và tự tay cập nhật lịch, tuyệt đối không để máy tự động đổi lịch hay xóa thông báo của người dùng.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
+Nếu có cơ hội làm lại buổi lab này, điều tôi sẽ thay đổi là thúc đẩy nhóm thực hiện việc bấm giờ và ghi chép nhật ký kiểm tra tin nhắn thật (log đo lường) từ trước buổi học ít nhất 2–3 ngày, thay vì chỉ dựa vào con số ước lượng trong trí nhớ 30–60 phút/ngày. Chính vì thiếu số liệu đo lường khách quan nên ở CP6, nhóm tôi đã phải đánh giá rủi ro Value ở mức Cao và buộc phải đưa ra quyết định "Not Yet". Ngoài ra, tôi sẽ phản biện nhóm mạnh mẽ hơn ở khâu phỏng vấn kiểm chứng: thay vì chỉ dựa vào tự thuật của Tài và Hà, tôi sẽ kéo cả nhóm quay sang phỏng vấn nhanh 1–2 bạn ở nhóm bên cạnh ngay trong giờ nghỉ giải lao để thu thập thêm bằng chứng độc lập, giúp cho báo cáo của nhóm vững chắc hơn nữa.
+
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+Bài toán của nhóm xuất phát từ nỗi đau có thật của Tài (học viên L3) khi mỗi ngày mất khoảng 30–60 phút kiểm tra phân tán qua Zalo, Discord, Outlook, trong đó điểm nghẽn lớn nhất là tốn 4 phút mỗi lượt đọc dò nội dung để tìm thông báo lịch học và deadline cần xử lý. Quy trình hiện tại gồm 4 bước thủ công được đề xuất cải tiến sang quy trình tương lai 3 bước: kết hợp tính năng ghim/rule sẵn có để gom tin ưu tiên, người dùng tự xác nhận vào danh sách việc chung, và bổ sung bước rà soát 5 phút cuối ngày để bắt các tin sót. Metric thành công đặt ra là giảm 50% tổng thời gian/ngày (tính cả thời gian rà soát) so với baseline bấm giờ 5 ngày học, đảm bảo không bỏ sót thông tin lịch/deadline và độ trễ nhận tin khẩn không quá 30 phút. Boundary quy định chặt chẽ: người dùng giữ toàn quyền xác nhận và hành động, hệ thống không được tự xóa tin hay đổi lịch, nếu thiếu dữ liệu phải báo chưa kiểm tra chứ không được tự suy đoán. Nhóm chọn mức can thiệp **Rule kết hợp No AI** (sắp xếp lại thói quen kiểm tra và dùng rule lọc có sẵn), kiên quyết không dùng Workflow hay Agent vì chưa có bằng chứng cho thấy mức đơn giản bị thất bại. Cuối cùng, nhóm ra quyết định **Not Yet** vì rủi ro Value còn cao do chưa đo baseline thực tế, kèm 4 ngưỡng dừng nghiêm ngặt: nếu trong quá trình thử nghiệm để lỡ dù chỉ 1 deadline hoặc trễ tin khẩn quá 30 phút thì dừng phương án ngay lập tức và quay về cách đọc nguồn gốc ban đầu.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+1. **Zalo Help — Các tiện ích cơ bản khi nhắn tin trên Zalo máy tính:** Tham khảo tính năng ghim, phân loại hội thoại và bảng tin nhóm. [Link tài liệu](https://help.zalo.me/huong-dan/chuyen-muc/nhan-tin-va-goi/nhan-tin/cac-tien-ich-co-ban-khi-nhan-tin-tren-zalo-may-tinh/).
+2. **Discord Support — Notifications Settings 101:** Tham khảo cấu hình thông báo server/channel. [Link tài liệu](https://support.discord.com/hc/en-us/articles/215253258-Notifications-Settings-101).
+3. **Microsoft Support — Manage email messages by using rules in Outlook:** Tham khảo quy tắc xử lý hộp thư đến. [Link tài liệu](https://support.microsoft.com/en-gb/outlook/mail/manage-email-messages-by-using-rules-in-outlook).
+4. **Báo cáo nhóm — Day 02 Discovery & Problem Framing:** [group_report.md](../team/group_report.md).
+5. **Tài liệu hướng dẫn lab:** [Worksheet](../../docs/01-worksheet.md), [Checkpoints](../../CHECKPOINTS.md) và [Rubric](../../RUBRIC.md).
